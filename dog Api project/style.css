@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url(dogo2.jpg);
+    background-size: cover;
+    
+}
+
+button{
+    box-shadow: 2px 4px rgb(27, 27, 1);
+    border-radius: 15px;
+}
+
+img{
+    height: 600px;
+    width: 800px;
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px black;
+    border-radius: 20px;
+}
